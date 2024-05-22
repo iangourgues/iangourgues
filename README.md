@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Gourgues</h1>
 <h3 align="center">A passionate Software engineer from Louisiana</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **igourg1@lsu.edu**
 
