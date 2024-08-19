@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP**
 
-- 📫 How to reach me **igourg1@lsu.edu**
+- 📫 How to reach me **itgourgues@yahoo.com**
 
 <p align="left">
 </p>
